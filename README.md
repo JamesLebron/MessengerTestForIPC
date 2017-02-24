@@ -1,10 +1,6 @@
 # MessengerTestForIPC
 IPC之Messenger DEMO 示例
 
-# BinderTest
-作为Binder本进程调用和Messenger跨进程调用的客户端 Demo 示例
-
-
 ## Android IPC AIDL Binder 个人总结
 
 `某些观点纯属个人理解和总结`
